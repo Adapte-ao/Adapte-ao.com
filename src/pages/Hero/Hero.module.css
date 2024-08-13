@@ -1,0 +1,15 @@
+.backImage {
+  background-image: url("../../assets/background.jpg");
+  background-position: center center, top left;
+  background-repeat: no-repeat, repeat;
+  background-attachment: fixed, scroll;
+  /* background-size: 1290px; */
+  background-size: cover, auto;
+  height: 40rem;
+}
+h1 {
+  font-weight: 900;
+  font-style: normal;
+}
+.text {
+}
